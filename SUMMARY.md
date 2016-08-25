@@ -25,4 +25,5 @@
 * Manage users
 * Client experience
 * Automate RemoteApp
+* Stay current with RemoteApp
 
