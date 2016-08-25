@@ -22,7 +22,6 @@
 * Create a RemoteApp collection
    * Create a cloud collection
    * Which collection do you need?
-       * Create a cloud collection
 * Configure a Virtual Network
 * Publish applications
 * Manage users
