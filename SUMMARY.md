@@ -1,5 +1,4 @@
 # Summary
 
 * Testing GitBook
-* Overview
 
