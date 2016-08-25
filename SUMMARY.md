@@ -37,6 +37,7 @@
 * Publish applications
    * How to publish an app
 * Manage users
+   * How to add users
 * Client experience
 * Automate RemoteApp
 * Stay current with RemoteApp
