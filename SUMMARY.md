@@ -44,6 +44,7 @@
    * Secure Data
    * User data
 * Client experience
+   * Supported clients
 * Automate RemoteApp
 * Stay current with RemoteApp
 * Troubleshoot
