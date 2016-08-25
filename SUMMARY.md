@@ -26,6 +26,7 @@
    * Update your collection
    * Create a RemoteApp image
    * What is in the template image?
+   * Image requirements
 * Create a hybrid collection
 * Configure a Virtual Network
 * Publish applications
