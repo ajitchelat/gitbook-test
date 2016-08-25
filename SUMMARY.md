@@ -38,7 +38,7 @@
    * How to publish an app
 * Manage users
    * How to add users
-   * Configure Active Directory
+   * [Configure Active Directory](manage-users/remoteapp-ad.md)
    * Change the Azure AD tenant
    * Office 365 user accounts
    * Secure Data
