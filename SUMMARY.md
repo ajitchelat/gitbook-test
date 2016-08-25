@@ -33,6 +33,7 @@
    * Plan your VNET
    * Port and URL info
    * Validate your VNET
+   * Migrate to an Azure VNET
 * Publish applications
 * Manage users
 * Client experience
