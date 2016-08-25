@@ -23,4 +23,5 @@
 * Configure a Virtual Network
 * Publish applications
 * Manage users
+* Client experience
 
