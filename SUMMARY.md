@@ -24,6 +24,7 @@
    * Create a cloud collection
    * Create a hybrid collection
    * Update your collection
+   * Create a RemoteApp image
 * Create a hybrid collection
 * Configure a Virtual Network
 * Publish applications
