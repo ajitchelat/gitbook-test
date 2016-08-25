@@ -15,4 +15,5 @@
    * SQL Azure
    * Office 365
    * Outlook 2013
+   * Using App-V apps
 
