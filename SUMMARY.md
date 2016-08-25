@@ -40,7 +40,6 @@
    * Change the Azure AD tenant
    * How to add users
    * Configure Active Directory
-* Change the Azure AD tenant
 * Client experience
    * Change the Azure AD tenant
 * Automate RemoteApp
