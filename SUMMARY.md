@@ -8,5 +8,6 @@
    * [Azure service limits](overview/azure-subscription-service-limits.md)
 * Real world scenarios
    * Run any app on any device
+   * Run Office 365 on any device
 * Will my app work?
 
