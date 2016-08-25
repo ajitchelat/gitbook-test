@@ -46,6 +46,7 @@
 * Client experience
    * Supported clients
    * Configure redirection
+   * Client best practices
 * Automate RemoteApp
 * Stay current with RemoteApp
 * Troubleshoot
