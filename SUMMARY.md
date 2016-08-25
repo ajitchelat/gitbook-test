@@ -23,6 +23,7 @@
    * Which collection do you need?
    * Create a cloud collection
    * Create a hybrid collection
+   * Update your collection
 * Create a hybrid collection
 * Configure a Virtual Network
 * Publish applications
