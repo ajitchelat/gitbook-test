@@ -4,7 +4,7 @@
    * [What is RemoteApp?](overview/remoteapp-whatis.md)
    * [How does licensing work?](overview/remoteapp-licensing.md)
    * [FAQ](overview/remoteapp-faq.md)
-   * What's new?
+   * [What's new?](overview/remoteapp-whatsnew.md)
    * What's coming?
    * Azure service limits
 * Real world scenarios
