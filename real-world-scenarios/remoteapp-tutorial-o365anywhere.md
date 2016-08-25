@@ -1,22 +1,3 @@
-<properties
-   pageTitle="Get the same Office 365 experience on any device with Azure RemoteApp | Microsoft Azure"
-   description="Learn how to share any Office 365 app with your users by using Azure RemoteApp."
-   services="remoteapp"
-   documentationCenter=""
-   authors="guscatalano"
-   manager="mbaldwin"
-   editor=""/>
-
-<tags
-   ms.service="remoteapp"
-   ms.devlang="na"
-   ms.topic="hero-article"
-   ms.tgt_pltfrm="na"
-   ms.workload="compute"
-   ms.date="08/15/2016"
-   ms.author="guscatal;elizapo"/>
-
-
 # Get the same Office 365 experience on any device with Azure RemoteApp
 
 > [AZURE.IMPORTANT]
