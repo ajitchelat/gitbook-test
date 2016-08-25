@@ -31,6 +31,7 @@
    * Create an image from an Azure VM
 * Configure a Virtual Network
    * Plan your VNET
+   * Port and URL info
 * Publish applications
 * Manage users
 * Client experience
