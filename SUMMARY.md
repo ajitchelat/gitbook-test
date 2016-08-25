@@ -12,4 +12,5 @@
 * Will my app work?
    * App requirements
    * OneDrive for Business
+   * SQL Azure
 
