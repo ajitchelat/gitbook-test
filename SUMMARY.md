@@ -18,4 +18,5 @@
    * Using App-V apps
    * QuickBooks on Azure RemoteApp
    * Microsoft Dynamics AX
+   * Secure Apps and resources
 
