@@ -20,4 +20,5 @@
    * Microsoft Dynamics AX
    * Secure Apps and resources
 * Create a RemoteApp collection
+* Configure a Virtual Network
 
