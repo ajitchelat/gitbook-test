@@ -36,8 +36,8 @@
    * Migrate to an Azure VNET
 * Publish applications
    * How to publish an app
-* Change the Azure AD tenant
 * Manage users
+   * Change the Azure AD tenant
    * How to add users
    * Configure Active Directory
 * Client experience
