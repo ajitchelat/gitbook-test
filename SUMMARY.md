@@ -49,7 +49,7 @@
    * Client best practices
 * Automate RemoteApp
    * RemoteApp PowerShell cmdlets
-   * Manage RemoteApp with Azure Automation
+   * [Manage RemoteApp with Azure Automation](automate-remoteapp/automation-manage-remote-app.md)
 * Troubleshoot
    * [Troubleshoot a hybrid collection](troubleshoot/remoteapp-hybridtrouble.md)
    * [Troubleshoot a cloud collection](troubleshoot/remoteapp-cloudtrouble.md)
