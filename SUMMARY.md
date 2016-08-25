@@ -45,6 +45,7 @@
    * User data
 * Client experience
    * Supported clients
+   * Configure redirection
 * Automate RemoteApp
 * Stay current with RemoteApp
 * Troubleshoot
