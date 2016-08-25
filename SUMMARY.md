@@ -42,7 +42,7 @@
    * [Change the Azure AD tenant](manage-users/remoteapp-changetenant)
    * [Office 365 user accounts](manage-users/remoteapp-o365user)
    * Secure Data
-   * User data
+   * [User data](manage-users/remoteapp-upd)
 * Client experience
    * [Supported clients](client-experience/remoteapp-clients.md)
    * [Configure redirection](client-experience/remoteapp-redirection.md)
