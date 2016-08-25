@@ -13,7 +13,7 @@
    * [App requirements](will-my-app-work/remoteapp-appreqs.md)
    * [OneDrive for Business](will-my-app-work/remoteapp-onedrive)
    * [SQL Azure](will-my-app-work/remoteapp-sql.md)
-   * Office 365
+   * [Office 365](will-my-app-work/remoteapp-o365.md)
    * Outlook 2013
    * Using App-V apps
    * QuickBooks on Azure RemoteApp
