@@ -48,6 +48,7 @@
    * Configure redirection
    * Client best practices
 * Automate RemoteApp
+   * RemoteApp PowerShell cmdlets
 * Stay current with RemoteApp
 * Troubleshoot
 
