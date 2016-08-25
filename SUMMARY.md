@@ -21,9 +21,9 @@
    * Secure Apps and resources
 * Create a RemoteApp collection
    * Which collection do you need?
-   * Create a hybrid collection
    * Create a cloud collection
        * Create a hybrid collection
+   * Create a hybrid collection
 * Create a hybrid collection
 * Configure a Virtual Network
 * Publish applications
