@@ -35,7 +35,7 @@
    * Validate your VNET
    * Migrate to an Azure VNET
 * Publish applications
-   * How to publish an app
+   * [How to publish an app](publish/remoteapp-publish)
 * Manage users
    * [How to add users](manage-users/remoteapp-user)
    * [Configure Active Directory](manage-users/remoteapp-ad.md)
