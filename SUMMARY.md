@@ -13,4 +13,5 @@
    * App requirements
    * OneDrive for Business
    * SQL Azure
+   * Office 365
 
