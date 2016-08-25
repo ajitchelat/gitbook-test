@@ -14,4 +14,5 @@
    * OneDrive for Business
    * SQL Azure
    * Office 365
+   * Outlook 2013
 
