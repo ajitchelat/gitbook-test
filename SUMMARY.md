@@ -44,7 +44,7 @@
    * Secure Data
    * User data
 * Client experience
-   * Supported clients
+   * [Supported clients](client-experience/remoteapp-clients.md)
    * [Configure redirection](client-experience/remoteapp-redirection.md)
    * [Client best practices](client-experience/remoteapp-bestpractices.md)
 * Automate RemoteApp
