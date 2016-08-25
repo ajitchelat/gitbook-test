@@ -12,7 +12,7 @@
 * [Will my app work?](will_my_app_work.md)
    * [App requirements](will-my-app-work/remoteapp-appreqs.md)
    * [OneDrive for Business](will-my-app-work/remoteapp-onedrive)
-   * SQL Azure
+   * [SQL Azure](will-my-app-work/remoteapp-sql.md)
    * Office 365
    * Outlook 2013
    * Using App-V apps
