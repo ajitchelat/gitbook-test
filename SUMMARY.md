@@ -32,6 +32,7 @@
 * Configure a Virtual Network
    * Plan your VNET
    * Port and URL info
+   * Validate your VNET
 * Publish applications
 * Manage users
 * Client experience
