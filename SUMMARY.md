@@ -24,4 +24,5 @@
 * Publish applications
 * Manage users
 * Client experience
+* Automate RemoteApp
 
