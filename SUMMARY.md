@@ -10,7 +10,7 @@
    * [Run any app on any device](real-world-scenarios/remoteapp-anyapp.md)
    * [Run Office 365 on any device](real-world-scenarios/remoteapp-tutorial-o365anywhere.md)
 * [Will my app work?](will_my_app_work.md)
-   * App requirements
+   * [App requirements](will-my-app-work/remoteapp-appreqs.md)
    * OneDrive for Business
    * SQL Azure
    * Office 365
