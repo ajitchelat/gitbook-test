@@ -6,7 +6,7 @@
    * [FAQ](overview/remoteapp-faq.md)
    * [What's new?](overview/remoteapp-whatsnew.md)
    * [Azure service limits](overview/azure-subscription-service-limits.md)
-* Real world scenarios
+* [Real world scenarios](real_world_scenarios.md)
    * [Run any app on any device](real-world-scenarios/remoteapp-anyapp.md)
    * [Run Office 365 on any device](real-world-scenarios/remoteapp-tutorial-o365anywhere.md)
 * Will my app work?
