@@ -39,7 +39,7 @@
 * Manage users
    * How to add users
    * [Configure Active Directory](manage-users/remoteapp-ad.md)
-   * Change the Azure AD tenant
+   * [Change the Azure AD tenant](manage-users/remoteapp-changetenant)
    * Office 365 user accounts
    * Secure Data
    * User data
