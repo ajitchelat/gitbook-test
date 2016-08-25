@@ -20,6 +20,7 @@
    * Microsoft Dynamics AX
    * Secure Apps and resources
 * Create a RemoteApp collection
+   * Which collection do you need?
 * Configure a Virtual Network
 * Publish applications
 * Manage users
