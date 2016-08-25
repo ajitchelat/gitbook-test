@@ -38,6 +38,7 @@
    * How to publish an app
 * Manage users
    * How to add users
+   * Configure Active Directory
 * Client experience
 * Automate RemoteApp
 * Stay current with RemoteApp
