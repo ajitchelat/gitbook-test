@@ -45,7 +45,7 @@
    * User data
 * Client experience
    * Supported clients
-   * Configure redirection
+   * [Configure redirection](client-experience/remoteapp-redirection.md)
    * [Client best practices](client-experience/remoteapp-bestpractices.md)
 * Automate RemoteApp
    * [RemoteApp PowerShell cmdlets](automate-remoteapp/remoteapp-tutorial-arawithpowershell.md)
