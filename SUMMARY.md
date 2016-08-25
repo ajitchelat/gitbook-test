@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
    * [What is RemoteApp?](overview/remoteapp-whatis.md)
-   * How does licensing work?
+   * [How does licensing work?](overview/remoteapp-licensing.md)
    * FAQ
    * What's new?
    * What's coming?
