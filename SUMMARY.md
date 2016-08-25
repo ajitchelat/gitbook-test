@@ -42,6 +42,7 @@
    * Change the Azure AD tenant
    * Office 365 user accounts
    * Secure Data
+   * User data
 * Client experience
 * Automate RemoteApp
 * Stay current with RemoteApp
