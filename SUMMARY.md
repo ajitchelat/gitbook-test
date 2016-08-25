@@ -35,6 +35,7 @@
    * Validate your VNET
    * Migrate to an Azure VNET
 * Publish applications
+   * How to publish an app
 * Manage users
 * Client experience
 * Automate RemoteApp
