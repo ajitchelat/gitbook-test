@@ -8,6 +8,6 @@
    * [Azure service limits](overview/azure-subscription-service-limits.md)
 * Real world scenarios
    * [Run any app on any device](real-world-scenarios/remoteapp-anyapp.md)
-   * Run Office 365 on any device
+   * [Run Office 365 on any device](real-world-scenarios/remoteapp-tutorial-o365anywhere.md)
 * Will my app work?
 
