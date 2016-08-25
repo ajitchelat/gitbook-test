@@ -38,8 +38,8 @@
    * How to publish an app
 * How to add users
 * Manage users
-   * Configure Active Directory
    * How to add users
+   * Configure Active Directory
    * Change the Azure AD tenant
 * Client experience
 * Automate RemoteApp
