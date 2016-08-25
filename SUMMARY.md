@@ -52,4 +52,5 @@
    * Manage RemoteApp with Azure Automation
 * Troubleshoot
    * Troubleshoot a hybrid collection
+   * Troubleshoot a cloud collection
 
