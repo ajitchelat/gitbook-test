@@ -51,6 +51,6 @@
    * RemoteApp PowerShell cmdlets
    * Manage RemoteApp with Azure Automation
 * Troubleshoot
-   * Troubleshoot a hybrid collection
+   * [Troubleshoot a hybrid collection](troubleshoot/remoteapp-hybridtrouble.md)
    * Troubleshoot a cloud collection
 
