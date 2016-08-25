@@ -49,6 +49,7 @@
    * Client best practices
 * Automate RemoteApp
    * RemoteApp PowerShell cmdlets
+   *  Manage RemoteApp with Azure Automation
 * Stay current with RemoteApp
 * Troubleshoot
 
