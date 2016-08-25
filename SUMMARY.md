@@ -5,8 +5,8 @@
    * How does licensing work?
    * FAQ
    * What's new?
-   * Azure service limits
    * What's coming?
+   * Azure service limits
 * Real world scenarios
 * Will my app work?
 
