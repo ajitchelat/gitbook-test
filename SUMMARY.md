@@ -29,7 +29,6 @@
    * Image requirements
    * Upload an image
    * Create an image from an Azure VM
-* Create a hybrid collection
 * Configure a Virtual Network
 * Publish applications
 * Manage users
