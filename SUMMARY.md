@@ -36,7 +36,6 @@
    * Migrate to an Azure VNET
 * Publish applications
    * How to publish an app
-* How to add users
 * Manage users
    * How to add users
    * Configure Active Directory
