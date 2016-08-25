@@ -26,4 +26,5 @@
 * Client experience
 * Automate RemoteApp
 * Stay current with RemoteApp
+* Troubleshoot
 
