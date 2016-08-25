@@ -17,4 +17,5 @@
    * Outlook 2013
    * Using App-V apps
    * QuickBooks on Azure RemoteApp
+   * Microsoft Dynamics AX
 
