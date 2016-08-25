@@ -37,9 +37,9 @@
 * Publish applications
    * How to publish an app
 * Manage users
+   * Configure Active Directory
    * How to add users
    * Change the Azure AD tenant
-   * Configure Active Directory
 * Client experience
 * Automate RemoteApp
 * Stay current with RemoteApp
