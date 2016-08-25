@@ -30,6 +30,7 @@
    * Upload an image
    * Create an image from an Azure VM
 * Configure a Virtual Network
+   * Plan your VNET
 * Publish applications
 * Manage users
 * Client experience
