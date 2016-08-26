@@ -23,7 +23,7 @@
    * [Which collection do you need?](create-remoteapp-collection/remoteapp-collections.md)
    * [Create a cloud collection](create-remoteapp-collection/remoteapp-create-cloud-deployment.md)
    * [Create a hybrid collection](create-remoteapp-collection/remoteapp-create-hyrbid-deployment.md)
-   * Update your collection
+   * [Update your collection](create-remoteapp-collection/remoteapp-update.md)
    * Create a RemoteApp image
    * What is in the template image?
    * Image requirements
