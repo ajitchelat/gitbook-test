@@ -1,23 +1,3 @@
-<properties
-	pageTitle="Microsoft Azure Subscription and Service Limits, Quotas, and Constraints"
-	description="Provides a list of common Azure subscription and service limits, quotas, and constraints. This includes information on how to increase limits along with maximum values."
-	services=""
-	documentationCenter=""
-	authors="rothja"
-	manager="jeffreyg"
-	editor=""
-	tags="billing"
-	/>
-
-<tags
-	ms.service="billing"
-	ms.workload="na"
-	ms.tgt_pltfrm="na"
-	ms.devlang="na"
-	ms.topic="article"
-	ms.date="08/18/2016"
-	ms.author="btardif"/>
-
 # Azure subscription and service limits, quotas, and constraints
 
 ## Overview
