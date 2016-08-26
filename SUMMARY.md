@@ -17,8 +17,8 @@
    * [Outlook 2013](will-my-app-work/remoteapp-outlook.md)
    * [Using App-V apps](will-my-app-work/remoteapp-appv.md)
    * [QuickBooks on Azure RemoteApp](will-my-app-work/remoteapp-quickbooks.md)
-   * [Microsoft Dynamics AX](https://mbs.microsoft.com/customersource/global/ax/learning/documentation/msdax2012r3azremappprg)
-   * Secure Apps and resources
+   * [Microsoft Dynamics AX](https:/mbs.microsoft.com/customersource/global/ax/learning/documentation/msdax2012r3azremappprg)
+   * [Secure Apps and resources](will-my-app-work/remoteapp-secure.md)
 * Create a RemoteApp collection
    * Which collection do you need?
    * Create a cloud collection
