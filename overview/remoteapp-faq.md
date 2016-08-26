@@ -1,21 +1,3 @@
-<properties 
-	pageTitle="Azure RemoteApp FAQ | Microsoft Azure" 
-	description="Learn answers to the most frequently asked questions about Azure RemoteApp." 
-	services="remoteapp" 
-	documentationCenter="" 
-	authors="lizap" 
-	manager="swadhwa" 
-	editor=""/>
-
-<tags 
-	ms.service="remoteapp" 
-	ms.workload="compute" 
-	ms.tgt_pltfrm="na" 
-	ms.devlang="na" 
-	ms.topic="get-started-article" 
-	ms.date="08/15/2016" 
-	ms.author="elizapo"/>
-
 # Azure RemoteApp FAQ
 
 > [AZURE.IMPORTANT]
