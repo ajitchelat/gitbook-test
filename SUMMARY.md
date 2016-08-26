@@ -15,7 +15,7 @@
    * [SQL Azure](will-my-app-work/remoteapp-sql.md)
    * [Office 365](will-my-app-work/remoteapp-o365.md)
    * [Outlook 2013](will-my-app-work/remoteapp-outlook.md)
-   * Using App-V apps
+   * [Using App-V apps](will-my-app-work/remoteapp-appv.md)
    * QuickBooks on Azure RemoteApp
    * Microsoft Dynamics AX
    * Secure Apps and resources
