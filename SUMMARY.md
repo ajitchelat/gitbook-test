@@ -42,7 +42,7 @@
    * [Office 365 user accounts](manage-users/remoteapp-o365user)
    * [Secure Data](manage-users/remoteapp-secureaccess)
    * [User data](manage-users/remoteapp-upd)
-* Client experience
+* [Client experience](client_experience.md)
    * [Supported clients](client-experience/remoteapp-clients.md)
    * [Configure redirection](client-experience/remoteapp-redirection.md)
    * [Client best practices](client-experience/remoteapp-bestpractices.md)
