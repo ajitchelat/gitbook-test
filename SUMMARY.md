@@ -25,7 +25,7 @@
    * [Create a hybrid collection](create-remoteapp-collection/remoteapp-create-hyrbid-deployment.md)
    * [Update your collection](create-remoteapp-collection/remoteapp-update.md)
    * [Create a RemoteApp image](create-remoteapp-collection/remoteapp-imageoptions.md)
-   * What is in the template image?
+   * [What is in the template image?](create-remoteapp-collection/remoteapp-images.md)
    * Image requirements
    * Upload an image
    * Create an image from an Azure VM
