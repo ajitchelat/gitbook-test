@@ -28,7 +28,7 @@
    * [What is in the template image?](create-remoteapp-collection/remoteapp-images.md)
    * [Image requirements](create-remoteapp-collection/remoteapp-imagereqs.md)
    * Upload an image
-   * Create an image from an Azure VM
+   * [Create an image from an Azure VM](create-remoteapp-collection/remoteapp-image-on-azurevm.md)
 * Configure a Virtual Network
    * Plan your VNET
    * Port and URL info
