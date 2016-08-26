@@ -1,21 +1,3 @@
-<properties
-    pageTitle="Azure RemoteApp licensing | Microsoft Azure"
-    description="Learn how licensing works in Azure RemoteApp."
-    services="remoteapp"
-    documentationCenter=""
-    authors="lizap"
-    manager="mbaldwin" />
-
-<tags
-    ms.service="remoteapp"
-    ms.workload="compute"
-    ms.tgt_pltfrm="na"
-    ms.devlang="na"
-    ms.topic="get-started-article"
-    ms.date="08/15/2016"
-    ms.author="elizapo" />
-
-
 # How does licensing work in Azure RemoteApp?
 
 > [AZURE.IMPORTANT]
