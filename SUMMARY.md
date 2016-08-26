@@ -20,7 +20,7 @@
    * [Microsoft Dynamics AX](https:/mbs.microsoft.com/customersource/global/ax/learning/documentation/msdax2012r3azremappprg)
    * [Secure Apps and resources](will-my-app-work/remoteapp-secure.md)
 * [Create a RemoteApp collection](create_a_remoteapp_collection.md)
-   * Which collection do you need?
+   * [Which collection do you need?](create-remoteapp-collection/remoteapp-collections.md)
    * Create a cloud collection
    * Create a hybrid collection
    * Update your collection
