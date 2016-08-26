@@ -29,7 +29,7 @@
    * [Image requirements](create-remoteapp-collection/remoteapp-imagereqs.md)
    * [Create an image from an Azure VM](create-remoteapp-collection/remoteapp-image-on-azurevm.md)
 * [Configure a Virtual Network](configure_a_virtual_network.md)
-   * Plan your VNET
+   * [Plan your VNET](configure-virtual-network/remoteapp-planvnet.md)
    * Port and URL info
    * Validate your VNET
    * Migrate to an Azure VNET
