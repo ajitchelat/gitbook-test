@@ -1,21 +1,3 @@
-<properties
-    pageTitle="Publish an app in Azure RemoteApp | Microsoft Azure"
-    description="Learn how to publish applications and resources in Azure RemoteApp."
-    services="remoteapp"
-    documentationCenter=""
-    authors="lizap"
-    manager="mbaldwin" />
-
-<tags
-    ms.service="remoteapp"
-    ms.workload="tbd"
-    ms.tgt_pltfrm="na"
-    ms.devlang="na"
-    ms.topic="article"
-    ms.date="08/15/2016"
-    ms.author="elizapo" />
-
-
 # How to publish an app in RemoteApp
 
 > [AZURE.IMPORTANT]

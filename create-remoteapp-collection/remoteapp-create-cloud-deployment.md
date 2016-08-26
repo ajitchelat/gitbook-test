@@ -1,21 +1,3 @@
-<properties 
-	pageTitle="How to create a cloud collection of Azure RemoteApp | Microsoft Azure" 
-	description="Learn how to create a deployment of Azure RemoteApp that saves data in the Azure cloud." 
-	services="remoteapp" 
-	documentationCenter="" 
-	authors="lizap" 
-	manager="mbaldwin" 
-	editor=""/>
-
-<tags 
-	ms.service="remoteapp" 
-	ms.workload="compute" 
-	ms.tgt_pltfrm="na" 
-	ms.devlang="na" 
-	ms.topic="article" 
-	ms.date="08/15/2016" 
-	ms.author="elizapo"/>
-
 # How to create a cloud collection of Azure RemoteApp
 
 > [AZURE.IMPORTANT]

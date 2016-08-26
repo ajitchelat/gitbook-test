@@ -1,20 +1,3 @@
-<properties
-    pageTitle="How to plan your virtual network for an Azure RemoteApp collection | Microsoft Azure"
-    description="Learn how to plan your virtual network for an Azure RemoteApp collection."
-    services="remoteapp"
-    documentationCenter="" 
-    authors="mghosh1616"
-    manager="mbaldwin" />
-
-<tags
-    ms.service="remoteapp"
-    ms.workload="compute"
-    ms.tgt_pltfrm="na"
-    ms.devlang="na"
-    ms.topic="article"
-    ms.date="08/15/2016"
-    ms.author="elizapo" />
-
 # How to plan your virtual network for Azure RemoteApp
 
 > [AZURE.IMPORTANT]

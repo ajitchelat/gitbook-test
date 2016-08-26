@@ -1,20 +1,3 @@
-<properties
-    pageTitle="Azure RemoteApp best practices | Microsoft Azure"
-    description="Best practices for configuring and using Azure RemoteApp."
-    services="remoteapp"
-    documentationCenter=""
-    authors="lizap"
-    manager="mbaldwin" />
-
-<tags
-    ms.service="remoteapp"
-    ms.workload="compute"
-    ms.tgt_pltfrm="na"
-    ms.devlang="na"
-    ms.topic="article"
-    ms.date="08/15/2016"
-    ms.author="elizapo" />
-
 # Best practices for configuring and using Azure RemoteApp
 
 > [AZURE.IMPORTANT]

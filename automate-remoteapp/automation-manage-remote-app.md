@@ -1,21 +1,3 @@
-<properties
-	pageTitle="Manage Azure RemoteApp using Azure Automation | Microsoft Azure"
-	description="Learn about how the Azure Automation service can be used to manage Azure RemoteApp."
-	services="automation"
-	documentationCenter=""
-	authors="mgoedtel"
-	manager="jwhit"
-	editor=""/>
-
-<tags
-	ms.service="automation"
-	ms.workload="tbd"
-	ms.tgt_pltfrm="na"
-	ms.devlang="na"
-	ms.topic="article"
-	ms.date="08/15/2016"
-	ms.author="magoedte;csand"/>
-
 #Managing Azure RemoteApp using Azure Automation
 
 > [AZURE.IMPORTANT]

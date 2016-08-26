@@ -1,23 +1,3 @@
-
-<properties
-    pageTitle="Upload a custom image for Azure RemoteApp | Microsoft Azure"
-    description="Learn how to upload a custom image for Azure RemoteApp"
-    services="remoteapp"
-    documentationCenter=""
-    authors="ericorman"
-    manager="mbaldwin" />
-
-<tags
-    ms.service="remoteapp"
-    ms.workload="compute"
-    ms.tgt_pltfrm="na"
-    ms.devlang="na"
-    ms.topic="article"
-    ms.date="08/15/2016"
-    ms.author="ericor" />
-
-
-
 # Upload a custom image for Azure RemoteApp
 
 > [AZURE.IMPORTANT]

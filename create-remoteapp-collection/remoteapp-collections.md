@@ -1,22 +1,3 @@
-<properties 
-    pageTitle="What kind of collection do you need for Azure RemoteApp? | Microsoft Azure" 
-    description="Learn about the types of collections available with Azure RemoteApp." 
-    services="remoteapp" 
-	documentationCenter="" 
-    authors="lizap" 
-    manager="mbaldwin" />
-
-<tags 
-    ms.service="remoteapp" 
-    ms.workload="compute" 
-    ms.tgt_pltfrm="na" 
-    ms.devlang="na" 
-    ms.topic="article" 
-    ms.date="08/15/2016" 
-    ms.author="elizapo" />
-
-
-
 # What kind of collection do you need for Azure RemoteApp?
 
 > [AZURE.IMPORTANT]

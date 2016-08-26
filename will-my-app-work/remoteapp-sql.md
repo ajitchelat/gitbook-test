@@ -1,21 +1,3 @@
-<properties
-   pageTitle="SQL Azure with Azure RemoteApp | Microsoft Azure"
-   description="Learn how to use SQL Azure with Azure RemoteApp."
-   services="remoteapp"
-   documentationCenter=""
-   authors="ericorman"
-   manager="mbaldwin"
-   editor=""/>
-
-<tags
-   ms.service="remoteapp"
-   ms.devlang="na"
-   ms.topic="hero-article"
-   ms.tgt_pltfrm="na"
-   ms.workload="compute"
-   ms.date="08/15/2016"
-   ms.author="elizapo"/>
-
 # SQL Azure with Azure RemoteApp
 
 > [AZURE.IMPORTANT]

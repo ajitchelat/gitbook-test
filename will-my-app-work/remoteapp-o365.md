@@ -1,21 +1,3 @@
-
-<properties
-    pageTitle="Using Office with Azure RemoteApp | Microsoft Azure" 
-    description="Learn how Office and Azure RemoteApp work together"
-    services="remoteapp"
-    documentationCenter=""
-    authors="lizap"
-    manager="mbaldwin" />
-
-<tags
-    ms.service="remoteapp"
-    ms.workload="compute"
-    ms.tgt_pltfrm="na"
-    ms.devlang="na"
-    ms.topic="article"
-    ms.date="08/15/2016"
-    ms.author="elizapo" />
-
 # Using Office with Azure RemoteApp
 
 > [AZURE.IMPORTANT]

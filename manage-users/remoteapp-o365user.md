@@ -1,23 +1,3 @@
-
-<properties 
-    pageTitle="How to use Azure RemoteApp with Office 365 user accounts | Microsoft Azure"
-	description="Learn how to use Azure RemoteApp with my Office 365 user accounts"
-	services="remoteapp"
-	documentationCenter="" 
-	authors="piotrci" 
-	manager="mbaldwin" />
-
-<tags 
-    ms.service="remoteapp" 
-    ms.workload="compute" 
-    ms.tgt_pltfrm="na" 
-    ms.devlang="na" 
-    ms.topic="article" 
-    ms.date="08/15/2016" 
-    ms.author="elizapo" />
-
-
-
 # How to use Azure RemoteApp with Office 365 user accounts
 
 > [AZURE.IMPORTANT]

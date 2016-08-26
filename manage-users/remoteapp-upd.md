@@ -1,21 +1,3 @@
-
-<properties 
-    pageTitle="How does Azure RemoteApp save user data and settings? | Microsoft Azure"
-	description="Learn how Azure RemoteApp saves user data using the user profile disk."
-	services="remoteapp"
-	documentationCenter="" 
-	authors="lizap" 
-	manager="mbaldwin" />
-
-<tags 
-    ms.service="remoteapp" 
-    ms.workload="compute" 
-    ms.tgt_pltfrm="na" 
-    ms.devlang="na" 
-    ms.topic="article" 
-    ms.date="08/15/2016" 
-    ms.author="elizapo" />
-
 # How does Azure RemoteApp save user data and settings?
 
 > [AZURE.IMPORTANT]

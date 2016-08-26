@@ -1,23 +1,3 @@
-
-<properties
-    pageTitle="Change the Azure Active Directory tenant in Azure RemoteApp | Microsoft Azure"
-    description="Learn how to change the Azure Active Directory tenant associated with Azure RemoteApp"
-    services="remoteapp"
-    documentationCenter=""
-    authors="lizap"
-    manager="mbaldwin" />
-
-<tags
-    ms.service="remoteapp"
-    ms.workload="compute"
-    ms.tgt_pltfrm="na"
-    ms.devlang="na"
-    ms.topic="article"
-    ms.date="08/15/2016"
-    ms.author="elizapo" />
-
-
-
 # Change the Azure Active Directory tenant in Azure RemoteApp
 
 > [AZURE.IMPORTANT]

@@ -1,22 +1,3 @@
-<properties
-    pageTitle="Create an Azure RemoteApp image | Microsoft Azure"
-    description="Learn about the options available for creating images for Azure RemoteApp"
-    services="remoteapp"
-    documentationCenter=""
-    authors="lizap"
-    manager="mbaldwin" />
-
-<tags
-    ms.service="remoteapp"
-    ms.workload="compute"
-    ms.tgt_pltfrm="na"
-    ms.devlang="na"
-    ms.topic="article"
-    ms.date="08/15/2016"
-    ms.author="elizapo" />
-
-
-
 # Create an Azure RemoteApp image
 
 > [AZURE.IMPORTANT]

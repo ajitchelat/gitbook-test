@@ -1,23 +1,3 @@
-<properties
-   pageTitle="Use PowerShell cmdlets with Azure RemoteApp | Microsoft Azure"
-   description="Learn how to use Windows PowerShell cmdlets in Azure RemoteApp."
-   services="remoteapp"
-   documentationCenter=""
-   authors="guscatalano"
-   manager="mbaldwin"
-   editor=""/>
-
-<tags
-   ms.service="remoteapp"
-   ms.devlang="na"
-   ms.topic="article"
-   ms.tgt_pltfrm="na"
-   ms.workload="compute"
-   ms.date="08/15/2016"
-   ms.author="elizapo"/>
-
-
-
 # Use Windows PowerShell cmdlets with Azure RemoteApp
 
 > [AZURE.IMPORTANT]

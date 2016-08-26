@@ -1,22 +1,3 @@
-<properties
-    pageTitle="Create an Azure RemoteApp image based on an Azure VM | Microsoft Azure"
-    description="Learn how to create an image for Azure RemoteApp by starting with an Azure virtual machine."
-    services="remoteapp"
-    documentationCenter=""
-    authors="lizap"
-    manager="mbaldwin" />
-
-<tags
-    ms.service="remoteapp"
-    ms.workload="compute"
-    ms.tgt_pltfrm="na"
-    ms.devlang="na"
-    ms.topic="article"
-    ms.date="08/15/2016" 
-    ms.author="elizapo" />
-
-
-
 # Create a Azure RemoteApp image based on an Azure virtual machine
 
 > [AZURE.IMPORTANT]

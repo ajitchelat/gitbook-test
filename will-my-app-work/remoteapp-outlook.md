@@ -1,20 +1,3 @@
-<properties
-    pageTitle="Using Outlook in Azure RemoteApp | Microsoft Azure" 
-    description="Learn how to configure and use Outlook in Azure RemoteApp | Microsoft Azure"
-    services="remoteapp"
-    documentationCenter=""
-    authors="pavithir"
-    manager="mbaldwin" />
-
-<tags
-    ms.service="remoteapp"
-    ms.workload="compute"
-    ms.tgt_pltfrm="na"
-    ms.devlang="na"
-    ms.topic="hero-article"
-    ms.date="08/15/2016"
-    ms.author="elizapo" />
-
 # Using Microsoft Outlook in Azure RemoteApp
 
 > [AZURE.IMPORTANT]

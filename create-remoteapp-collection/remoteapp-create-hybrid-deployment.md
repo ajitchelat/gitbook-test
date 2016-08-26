@@ -1,21 +1,3 @@
-<properties
-	pageTitle="How to create a hybrid collection for Azure RemoteApp | Microsoft Azure"
-	description="Learn how to create a deployment of RemoteApp that connects to your internal network."
-	services="remoteapp"
-	documentationCenter=""
-	authors="lizap"
-	manager="mbaldwin"
-	editor=""/>
-
-<tags
-	ms.service="remoteapp"
-	ms.workload="compute"
-	ms.tgt_pltfrm="na"
-	ms.devlang="na"
-	ms.topic="article"
-	ms.date="08/15/2016"
-	ms.author="elizapo"/>
-
 # How to create a hybrid collection for Azure RemoteApp
 
 > [AZURE.IMPORTANT]

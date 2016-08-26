@@ -1,23 +1,3 @@
-
-<properties
-    pageTitle="Accessing your apps from any device | Microsoft Azure"
-    description="Learn what clients are supported for Azure RemoteApp and how to access your apps."
-    services="remoteapp"
-	documentationCenter=""
-    authors="lizap"
-    manager="mbaldwin" />
-
-<tags
-    ms.service="remoteapp"
-    ms.workload="compute"
-    ms.tgt_pltfrm="na"
-    ms.devlang="na"
-    ms.topic="article"
-    ms.date="08/15/2016"
-    ms.author="elizapo" />
-
-
-
 # Accessing your apps in Azure RemoteApp
 
 > [AZURE.IMPORTANT]

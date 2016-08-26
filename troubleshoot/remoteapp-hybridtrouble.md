@@ -1,23 +1,3 @@
-
-<properties
-    pageTitle="Troubleshoot creating RemoteApp hybrid collections | Microsoft Azure"
-    description="Learn how to troubleshoot RemoteApp hybrid collection creation failures"
-    services="remoteapp"
-    documentationCenter=""
-    authors="vkbucha"
-    manager="mbaldwin" />
-
-<tags
-    ms.service="remoteapp"
-    ms.workload="compute"
-    ms.tgt_pltfrm="na"
-    ms.devlang="na"
-    ms.topic="article"
-    ms.date="08/15/2016"
-    ms.author="elizapo" />
-
-
-
 # Troubleshoot creating Azure RemoteApp hybrid collections
 
 > [AZURE.IMPORTANT]

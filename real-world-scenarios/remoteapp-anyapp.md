@@ -1,21 +1,3 @@
-<properties
-   pageTitle="Run any Windows app on any device with Azure RemoteApp | Microsoft Azure"
-   description="Learn how to share any Windows app with your users by using Azure RemoteApp."
-   services="remoteapp"
-   documentationCenter=""
-   authors="lizap"
-   manager="mbaldwin"
-   editor=""/>
-
-<tags
-   ms.service="remoteapp"
-   ms.devlang="na"
-   ms.topic="hero-article"
-   ms.tgt_pltfrm="na"
-   ms.workload="compute"
-   ms.date="08/15/2016"
-   ms.author="elizapo"/>
-
 # Run any Windows app on any device with Azure RemoteApp
 
 > [AZURE.IMPORTANT]

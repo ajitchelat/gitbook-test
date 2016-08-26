@@ -1,20 +1,3 @@
-<properties
-    pageTitle="Add a user to your Azure RemoteApp collection | Microsoft Azure"
-    description="Learn how to add users to your Azure RemoteApp collection"
-    services="remoteapp"
-	documentationCenter=""
-    authors="lizap"
-    manager="mbaldwin" />
-
-<tags
-    ms.service="remoteapp"
-    ms.workload="compute"
-    ms.tgt_pltfrm="na"
-    ms.devlang="na"
-    ms.topic="article"
-    ms.date="08/15/2016"
-    ms.author="elizapo" />
-
 # How to add a user to your Azure RemoteApp collection
 
 > [AZURE.IMPORTANT]

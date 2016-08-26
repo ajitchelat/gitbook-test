@@ -1,23 +1,3 @@
-
-<properties
-    pageTitle="Troubleshoot RemoteApp cloud collections - creation | Microsoft Azure"
-    description="Learn how to troubleshoot RemoteApp cloud collection creation failures"
-    services="remoteapp"
-    documentationCenter=""
-    authors="vkbucha"
-    manager="mbaldwin" />
-
-<tags
-    ms.service="remoteapp"
-    ms.workload="tbd"
-    ms.tgt_pltfrm="na"
-    ms.devlang="na"
-    ms.topic="article"
-    ms.date="08/15/2016"
-    ms.author="elizapo" />
-
-
-
 # Troubleshoot creating RemoteApp cloud collections
 
 > [AZURE.IMPORTANT]

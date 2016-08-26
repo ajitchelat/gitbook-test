@@ -1,22 +1,3 @@
-<properties
-    pageTitle="Using App-V apps with Azure RemoteApp| Microsoft Azure"
-    description="Learn how to use App-V apps in Azure RemoteApp."
-    services="remoteapp"
-	documentationCenter=""
-    authors="ericorman"
-    manager="mbaldwin" />
-
-<tags
-    ms.service="remoteapp"
-    ms.workload="compute"
-    ms.tgt_pltfrm="na"
-    ms.devlang="na"
-    ms.topic="article"
-    ms.date="08/15/2016" 
-    ms.author="elizapo" />
-
-
-
 # Using App-V apps in Azure RemoteApp
 
 > [AZURE.IMPORTANT]

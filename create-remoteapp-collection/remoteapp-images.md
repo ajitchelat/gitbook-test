@@ -1,20 +1,3 @@
-<properties
-    pageTitle="What is in the Azure RemoteApp template images? | Microsoft Azure"
-    description="Learn about the template images included with Azure RemoteApp."
-    services="remoteapp"
-    documentationCenter=""
-    authors="lizap"
-    manager="mbaldwin" />
-
-<tags
-    ms.service="remoteapp"
-    ms.workload="compute"
-    ms.tgt_pltfrm="na"
-    ms.devlang="na"
-    ms.topic="get-started-article"
-    ms.date="08/15/2016"
-    ms.author="elizapo" />
-
 # What is in the Azure RemoteApp template images?
 
 > [AZURE.IMPORTANT]

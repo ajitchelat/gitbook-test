@@ -1,23 +1,3 @@
-
-<properties 
-    pageTitle="Azure AD + Active Directory requirements for Azure RemoteApp | Microsoft Azure" 
-    description="Learn how to set up Active Directory to work with Azure RemoteApp." 
-    services="remoteapp" 
-	documentationCenter="" 
-    authors="lizap" 
-    manager="mbaldwin" />
-
-<tags 
-    ms.service="remoteapp" 
-    ms.workload="compute" 
-    ms.tgt_pltfrm="na" 
-    ms.devlang="na" 
-    ms.topic="article" 
-    ms.date="08/15/2016" 
-    ms.author="elizapo" />
-
-
-
 # Azure AD + Active Directory requirements for Azure RemoteApp
 
 > [AZURE.IMPORTANT]

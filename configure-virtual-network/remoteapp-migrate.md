@@ -1,23 +1,3 @@
-
-<properties
-    pageTitle="Migrate user data from Azure RemoteApp | Microsoft Azure"
-    description="Learn how to migrate your user data in and out of Azure RemoteApp."
-    services="remoteapp"
-    documentationCenter=""
-    authors="lizap"
-    manager="mbaldwin" />
-
-<tags
-    ms.service="remoteapp"
-    ms.workload="compute"
-    ms.tgt_pltfrm="na"
-    ms.devlang="na"
-    ms.topic="article"
-    ms.date="08/15/2016"
-    ms.author="elizapo" />
-
-
-
 # How to migrate data into and out of Azure RemoteApp
 
 > [AZURE.IMPORTANT]

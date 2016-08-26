@@ -1,21 +1,3 @@
-<properties
-   pageTitle="Update your Azure RemoteApp collection | Microsoft Azure"
-   description="Learn how to update your Azure RemoteApp collection"
-   services="remoteapp"
-   documentationCenter=""
-   authors="lizap"
-   manager="mbaldwin"
-   editor=""/>
-
-<tags
-   ms.service="remoteapp"
-   ms.devlang="NA"
-   ms.topic="article"
-   ms.tgt_pltfrm="NA"
-   ms.workload="compute"
-   ms.date="08/15/2016"
-   ms.author="elizapo"/>
-
 # Update a collection in Azure RemoteApp
 
 > [AZURE.IMPORTANT]

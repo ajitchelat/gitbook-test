@@ -1,23 +1,3 @@
-
-<properties
-    pageTitle="Secure apps and resources in Azure RemoteApp | Microsoft Azure"
-    description="Learn how to lock down apps and resources in Azure RemoteApp"
-    services="remoteapp"
-	documentationCenter=""
-    authors="lizap"
-    manager="mbaldwin" />
-
-<tags
-    ms.service="remoteapp"
-    ms.workload="compute"
-    ms.tgt_pltfrm="na"
-    ms.devlang="na"
-    ms.topic="article"
-    ms.date="08/15/2016"
-    ms.author="elizapo" />
-
-
-
 # Secure apps and resources in Azure RemoteApp
 
 > [AZURE.IMPORTANT]

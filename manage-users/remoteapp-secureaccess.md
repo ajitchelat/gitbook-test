@@ -1,21 +1,3 @@
-
-<properties 
-    pageTitle="Securing access to Azure RemoteApp, and beyond | Microsoft Azure"
-	description="Learn how secure access to Azure RemoteApp by using conditional access in Azure Active Directory"
-	services="remoteapp"
-	documentationCenter="" 
-	authors="piotrci" 
-	manager="mbaldwin" />
-
-<tags 
-    ms.service="remoteapp" 
-    ms.workload="compute" 
-    ms.tgt_pltfrm="na" 
-    ms.devlang="na" 
-    ms.topic="article" 
-    ms.date="08/15/2016" 
-    ms.author="elizapo" />
-
 # Securing access to Azure RemoteApp, and beyond
 
 > [AZURE.IMPORTANT]

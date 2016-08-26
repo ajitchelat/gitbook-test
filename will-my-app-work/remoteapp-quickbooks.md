@@ -1,22 +1,3 @@
-<properties 
-    pageTitle="Deploy QuickBooks in Azure RemoteApp | Microsoft Azure" 
-    description="Learn how to share QuickBooks with Azure RemoteApp." 
-    services="remoteapp" 
-	documentationCenter="" 
-    authors="ericorman" 
-    manager="mbaldwin" />
-
-<tags 
-    ms.service="remoteapp" 
-    ms.workload="compute" 
-    ms.tgt_pltfrm="na" 
-    ms.devlang="na" 
-    ms.topic="article" 
-    ms.date="08/15/2016" 
-    ms.author="elizapo" />
-
-
-
 # How do you deploy QuickBooks in Azure RemoteApp?
 
 > [AZURE.IMPORTANT]
