@@ -19,7 +19,7 @@
    * [QuickBooks on Azure RemoteApp](will-my-app-work/remoteapp-quickbooks.md)
    * [Microsoft Dynamics AX](https:/mbs.microsoft.com/customersource/global/ax/learning/documentation/msdax2012r3azremappprg)
    * [Secure Apps and resources](will-my-app-work/remoteapp-secure.md)
-* Create a RemoteApp collection
+* [Create a RemoteApp collection](create_a_remoteapp_collection.md)
    * Which collection do you need?
    * Create a cloud collection
    * Create a hybrid collection
