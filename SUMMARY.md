@@ -46,7 +46,7 @@
    * [Supported clients](client-experience/remoteapp-clients.md)
    * [Configure redirection](client-experience/remoteapp-redirection.md)
    * [Client best practices](client-experience/remoteapp-bestpractices.md)
-* Automate RemoteApp
+* [Automate RemoteApp](automate_remoteapp.md)
    * [RemoteApp PowerShell cmdlets](automate-remoteapp/remoteapp-tutorial-arawithpowershell.md)
    * [Manage RemoteApp with Azure Automation](automate-remoteapp/automation-manage-remote-app.md)
 * [Troubleshoot](troubleshoot.md)
