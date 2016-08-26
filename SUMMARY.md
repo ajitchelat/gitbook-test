@@ -49,7 +49,7 @@
 * Automate RemoteApp
    * [RemoteApp PowerShell cmdlets](automate-remoteapp/remoteapp-tutorial-arawithpowershell.md)
    * [Manage RemoteApp with Azure Automation](automate-remoteapp/automation-manage-remote-app.md)
-* Troubleshoot
+* [Troubleshoot](troubleshoot.md)
    * [Troubleshoot a hybrid collection](troubleshoot/remoteapp-hybridtrouble.md)
    * [Troubleshoot a cloud collection](troubleshoot/remoteapp-cloudtrouble.md)
 
