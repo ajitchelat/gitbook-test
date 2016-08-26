@@ -1,23 +1,3 @@
-
-<properties
-    pageTitle="What's new in Azure RemoteApp? | Microsoft Azure"
-    description="Learn about changes and improvements made to Azure RemoteApp"
-    services="remoteapp"
-    documentationCenter=""
-    authors="lizap"
-    manager="mbaldwin" />
-
-<tags
-    ms.service="remoteapp"
-    ms.workload="compute"
-    ms.tgt_pltfrm="na"
-    ms.devlang="na"
-    ms.topic="article"
-    ms.date="08/15/2016"
-    ms.author="elizapo" />
-
-
-
 # What's new in Azure RemoteApp?
 
 > [AZURE.IMPORTANT]
