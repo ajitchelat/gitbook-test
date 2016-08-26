@@ -31,7 +31,7 @@
 * [Configure a Virtual Network](configure_a_virtual_network.md)
    * [Plan your VNET](configure-virtual-network/remoteapp-planvnet.md)
    * [Port and URL info](configure-virtual-network/remoteapp-ports.md)
-   * Validate your VNET
+   * [Validate your VNET](configure-virtual-network/remoteapp-vnet.md)
    * Migrate to an Azure VNET
 * Publish applications
    * [How to publish an app](publish/remoteapp-publish)
