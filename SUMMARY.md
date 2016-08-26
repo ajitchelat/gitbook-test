@@ -16,7 +16,7 @@
    * [Office 365](will-my-app-work/remoteapp-o365.md)
    * [Outlook 2013](will-my-app-work/remoteapp-outlook.md)
    * [Using App-V apps](will-my-app-work/remoteapp-appv.md)
-   * QuickBooks on Azure RemoteApp
+   * [QuickBooks on Azure RemoteApp](will-my-app-work/remoteapp-quickbooks.md)
    * Microsoft Dynamics AX
    * Secure Apps and resources
 * Create a RemoteApp collection
