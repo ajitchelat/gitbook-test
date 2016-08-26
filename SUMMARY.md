@@ -21,7 +21,7 @@
    * [Secure Apps and resources](will-my-app-work/remoteapp-secure.md)
 * [Create a RemoteApp collection](create_a_remoteapp_collection.md)
    * [Which collection do you need?](create-remoteapp-collection/remoteapp-collections.md)
-   * Create a cloud collection
+   * [Create a cloud collection](create-remoteapp-collection/remoteapp-create-cloud-deployment.md)
    * Create a hybrid collection
    * Update your collection
    * Create a RemoteApp image
